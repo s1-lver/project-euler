@@ -1,0 +1,15 @@
+C:\Users\angel\Documents\ProjectEuler\19_Counting_Sundays\obj\Debug\net8.0\19_Counting_Sundays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Documents\ProjectEuler\19_Counting_Sundays\obj\Debug\net8.0\19_Counting_Sundays.AssemblyInfoInputs.cache
+C:\Users\angel\Documents\ProjectEuler\19_Counting_Sundays\obj\Debug\net8.0\19_Counting_Sundays.AssemblyInfo.cs
+C:\Users\angel\Documents\ProjectEuler\19_Counting_Sundays\obj\Debug\net8.0\19_Counting_Sundays.csproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\ProjectEuler\19_Counting_Sundays\obj\Debug\net8.0\19_Counting_Sundays.sourcelink.json
+C:\Users\angel\Documents\ProjectEuler\19_Counting_Sundays\bin\Debug\net8.0\19_Counting_Sundays.exe
+C:\Users\angel\Documents\ProjectEuler\19_Counting_Sundays\bin\Debug\net8.0\19_Counting_Sundays.deps.json
+C:\Users\angel\Documents\ProjectEuler\19_Counting_Sundays\bin\Debug\net8.0\19_Counting_Sundays.runtimeconfig.json
+C:\Users\angel\Documents\ProjectEuler\19_Counting_Sundays\bin\Debug\net8.0\19_Counting_Sundays.dll
+C:\Users\angel\Documents\ProjectEuler\19_Counting_Sundays\bin\Debug\net8.0\19_Counting_Sundays.pdb
+C:\Users\angel\Documents\ProjectEuler\19_Counting_Sundays\obj\Debug\net8.0\19_Counting_Sundays.dll
+C:\Users\angel\Documents\ProjectEuler\19_Counting_Sundays\obj\Debug\net8.0\refint\19_Counting_Sundays.dll
+C:\Users\angel\Documents\ProjectEuler\19_Counting_Sundays\obj\Debug\net8.0\19_Counting_Sundays.pdb
+C:\Users\angel\Documents\ProjectEuler\19_Counting_Sundays\obj\Debug\net8.0\19_Counting_Sundays.genruntimeconfig.cache
+C:\Users\angel\Documents\ProjectEuler\19_Counting_Sundays\obj\Debug\net8.0\ref\19_Counting_Sundays.dll
