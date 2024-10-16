@@ -1,13 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-
-namespace _18_Maximum_Path_Sum_I
+﻿namespace _18_Maximum_Path_Sum_I
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             var triangle = new Triangle();
             triangle.LoadTriangle("C:\\Users\\angel\\Documents\\ProjectEuler\\18_Maximum_Path_Sum_I\\triangle.txt");
@@ -17,8 +12,8 @@ namespace _18_Maximum_Path_Sum_I
 
     class Triangle
     {
-        private List<List<int>> _triangle = new List<List<int>>();
-        private Dictionary<(int, int), int> _memo = new Dictionary<(int, int), int>();
+        private List<List<int>> _triangle = new();
+        private Dictionary<(int, int), int> _memo = new();
 
         public void LoadTriangle(string filePath)
         {
@@ -35,7 +30,7 @@ namespace _18_Maximum_Path_Sum_I
             return FindMaximumPathSum(0, 0);
         }
 
-        private int FindMaximumPathSum(int row, int col)
+        private int FindMaximumPathSum(int row, int col) //recursion my beloved <3
         {
             if (row == _triangle.Count - 1)
                 return _triangle[row][col];

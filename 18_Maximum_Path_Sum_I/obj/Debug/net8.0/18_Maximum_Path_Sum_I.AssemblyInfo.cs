@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("18_Maximum_Path_Sum_I")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67792e2e050a0b8cf4b37fe69aca518146773783")]
 [assembly: System.Reflection.AssemblyProductAttribute("18_Maximum_Path_Sum_I")]
 [assembly: System.Reflection.AssemblyTitleAttribute("18_Maximum_Path_Sum_I")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

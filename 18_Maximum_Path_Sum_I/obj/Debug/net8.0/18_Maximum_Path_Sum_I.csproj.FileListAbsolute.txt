@@ -12,3 +12,4 @@ C:\Users\angel\Documents\ProjectEuler\18_Maximum_Path_Sum_I\obj\Debug\net8.0\ref
 C:\Users\angel\Documents\ProjectEuler\18_Maximum_Path_Sum_I\obj\Debug\net8.0\18_Maximum_Path_Sum_I.pdb
 C:\Users\angel\Documents\ProjectEuler\18_Maximum_Path_Sum_I\obj\Debug\net8.0\18_Maximum_Path_Sum_I.genruntimeconfig.cache
 C:\Users\angel\Documents\ProjectEuler\18_Maximum_Path_Sum_I\obj\Debug\net8.0\ref\18_Maximum_Path_Sum_I.dll
+C:\Users\angel\Documents\ProjectEuler\18_Maximum_Path_Sum_I\obj\Debug\net8.0\18_Maximum_Path_Sum_I.sourcelink.json
