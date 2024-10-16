@@ -1,0 +1,14 @@
+C:\Users\angel\Documents\ProjectEuler\18_Maximum_Path_Sum_I\bin\Debug\net8.0\18_Maximum_Path_Sum_I.exe
+C:\Users\angel\Documents\ProjectEuler\18_Maximum_Path_Sum_I\bin\Debug\net8.0\18_Maximum_Path_Sum_I.deps.json
+C:\Users\angel\Documents\ProjectEuler\18_Maximum_Path_Sum_I\bin\Debug\net8.0\18_Maximum_Path_Sum_I.runtimeconfig.json
+C:\Users\angel\Documents\ProjectEuler\18_Maximum_Path_Sum_I\bin\Debug\net8.0\18_Maximum_Path_Sum_I.dll
+C:\Users\angel\Documents\ProjectEuler\18_Maximum_Path_Sum_I\bin\Debug\net8.0\18_Maximum_Path_Sum_I.pdb
+C:\Users\angel\Documents\ProjectEuler\18_Maximum_Path_Sum_I\obj\Debug\net8.0\18_Maximum_Path_Sum_I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Documents\ProjectEuler\18_Maximum_Path_Sum_I\obj\Debug\net8.0\18_Maximum_Path_Sum_I.AssemblyInfoInputs.cache
+C:\Users\angel\Documents\ProjectEuler\18_Maximum_Path_Sum_I\obj\Debug\net8.0\18_Maximum_Path_Sum_I.AssemblyInfo.cs
+C:\Users\angel\Documents\ProjectEuler\18_Maximum_Path_Sum_I\obj\Debug\net8.0\18_Maximum_Path_Sum_I.csproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\ProjectEuler\18_Maximum_Path_Sum_I\obj\Debug\net8.0\18_Maximum_Path_Sum_I.dll
+C:\Users\angel\Documents\ProjectEuler\18_Maximum_Path_Sum_I\obj\Debug\net8.0\refint\18_Maximum_Path_Sum_I.dll
+C:\Users\angel\Documents\ProjectEuler\18_Maximum_Path_Sum_I\obj\Debug\net8.0\18_Maximum_Path_Sum_I.pdb
+C:\Users\angel\Documents\ProjectEuler\18_Maximum_Path_Sum_I\obj\Debug\net8.0\18_Maximum_Path_Sum_I.genruntimeconfig.cache
+C:\Users\angel\Documents\ProjectEuler\18_Maximum_Path_Sum_I\obj\Debug\net8.0\ref\18_Maximum_Path_Sum_I.dll
