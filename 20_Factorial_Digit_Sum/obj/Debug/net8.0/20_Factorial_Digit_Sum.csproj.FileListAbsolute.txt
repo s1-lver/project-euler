@@ -1,0 +1,15 @@
+C:\Users\angel\Documents\ProjectEuler\20_Factorial_Digit_Sum\bin\Debug\net8.0\20_Factorial_Digit_Sum.exe
+C:\Users\angel\Documents\ProjectEuler\20_Factorial_Digit_Sum\bin\Debug\net8.0\20_Factorial_Digit_Sum.deps.json
+C:\Users\angel\Documents\ProjectEuler\20_Factorial_Digit_Sum\bin\Debug\net8.0\20_Factorial_Digit_Sum.runtimeconfig.json
+C:\Users\angel\Documents\ProjectEuler\20_Factorial_Digit_Sum\bin\Debug\net8.0\20_Factorial_Digit_Sum.dll
+C:\Users\angel\Documents\ProjectEuler\20_Factorial_Digit_Sum\bin\Debug\net8.0\20_Factorial_Digit_Sum.pdb
+C:\Users\angel\Documents\ProjectEuler\20_Factorial_Digit_Sum\obj\Debug\net8.0\20_Factorial_Digit_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Documents\ProjectEuler\20_Factorial_Digit_Sum\obj\Debug\net8.0\20_Factorial_Digit_Sum.AssemblyInfoInputs.cache
+C:\Users\angel\Documents\ProjectEuler\20_Factorial_Digit_Sum\obj\Debug\net8.0\20_Factorial_Digit_Sum.AssemblyInfo.cs
+C:\Users\angel\Documents\ProjectEuler\20_Factorial_Digit_Sum\obj\Debug\net8.0\20_Factorial_Digit_Sum.csproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\ProjectEuler\20_Factorial_Digit_Sum\obj\Debug\net8.0\20_Factorial_Digit_Sum.sourcelink.json
+C:\Users\angel\Documents\ProjectEuler\20_Factorial_Digit_Sum\obj\Debug\net8.0\20_Factorial_Digit_Sum.dll
+C:\Users\angel\Documents\ProjectEuler\20_Factorial_Digit_Sum\obj\Debug\net8.0\refint\20_Factorial_Digit_Sum.dll
+C:\Users\angel\Documents\ProjectEuler\20_Factorial_Digit_Sum\obj\Debug\net8.0\20_Factorial_Digit_Sum.pdb
+C:\Users\angel\Documents\ProjectEuler\20_Factorial_Digit_Sum\obj\Debug\net8.0\20_Factorial_Digit_Sum.genruntimeconfig.cache
+C:\Users\angel\Documents\ProjectEuler\20_Factorial_Digit_Sum\obj\Debug\net8.0\ref\20_Factorial_Digit_Sum.dll
