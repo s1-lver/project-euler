@@ -1,0 +1,15 @@
+C:\Users\angel\Documents\ProjectEuler\21_Amicable_Numbers\obj\Debug\net8.0\21_Amicable_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Documents\ProjectEuler\21_Amicable_Numbers\obj\Debug\net8.0\21_Amicable_Numbers.AssemblyInfoInputs.cache
+C:\Users\angel\Documents\ProjectEuler\21_Amicable_Numbers\obj\Debug\net8.0\21_Amicable_Numbers.AssemblyInfo.cs
+C:\Users\angel\Documents\ProjectEuler\21_Amicable_Numbers\obj\Debug\net8.0\21_Amicable_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\ProjectEuler\21_Amicable_Numbers\obj\Debug\net8.0\21_Amicable_Numbers.sourcelink.json
+C:\Users\angel\Documents\ProjectEuler\21_Amicable_Numbers\bin\Debug\net8.0\21_Amicable_Numbers.exe
+C:\Users\angel\Documents\ProjectEuler\21_Amicable_Numbers\bin\Debug\net8.0\21_Amicable_Numbers.deps.json
+C:\Users\angel\Documents\ProjectEuler\21_Amicable_Numbers\bin\Debug\net8.0\21_Amicable_Numbers.runtimeconfig.json
+C:\Users\angel\Documents\ProjectEuler\21_Amicable_Numbers\bin\Debug\net8.0\21_Amicable_Numbers.dll
+C:\Users\angel\Documents\ProjectEuler\21_Amicable_Numbers\bin\Debug\net8.0\21_Amicable_Numbers.pdb
+C:\Users\angel\Documents\ProjectEuler\21_Amicable_Numbers\obj\Debug\net8.0\21_Amicable_Numbers.dll
+C:\Users\angel\Documents\ProjectEuler\21_Amicable_Numbers\obj\Debug\net8.0\refint\21_Amicable_Numbers.dll
+C:\Users\angel\Documents\ProjectEuler\21_Amicable_Numbers\obj\Debug\net8.0\21_Amicable_Numbers.pdb
+C:\Users\angel\Documents\ProjectEuler\21_Amicable_Numbers\obj\Debug\net8.0\21_Amicable_Numbers.genruntimeconfig.cache
+C:\Users\angel\Documents\ProjectEuler\21_Amicable_Numbers\obj\Debug\net8.0\ref\21_Amicable_Numbers.dll
