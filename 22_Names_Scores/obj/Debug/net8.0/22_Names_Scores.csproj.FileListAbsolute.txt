@@ -1,0 +1,15 @@
+C:\Users\angel\Documents\ProjectEuler\22_Names_Scores\bin\Debug\net8.0\22_Names_Scores.exe
+C:\Users\angel\Documents\ProjectEuler\22_Names_Scores\bin\Debug\net8.0\22_Names_Scores.deps.json
+C:\Users\angel\Documents\ProjectEuler\22_Names_Scores\bin\Debug\net8.0\22_Names_Scores.runtimeconfig.json
+C:\Users\angel\Documents\ProjectEuler\22_Names_Scores\bin\Debug\net8.0\22_Names_Scores.dll
+C:\Users\angel\Documents\ProjectEuler\22_Names_Scores\bin\Debug\net8.0\22_Names_Scores.pdb
+C:\Users\angel\Documents\ProjectEuler\22_Names_Scores\obj\Debug\net8.0\22_Names_Scores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Documents\ProjectEuler\22_Names_Scores\obj\Debug\net8.0\22_Names_Scores.AssemblyInfoInputs.cache
+C:\Users\angel\Documents\ProjectEuler\22_Names_Scores\obj\Debug\net8.0\22_Names_Scores.AssemblyInfo.cs
+C:\Users\angel\Documents\ProjectEuler\22_Names_Scores\obj\Debug\net8.0\22_Names_Scores.csproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\ProjectEuler\22_Names_Scores\obj\Debug\net8.0\22_Names_Scores.sourcelink.json
+C:\Users\angel\Documents\ProjectEuler\22_Names_Scores\obj\Debug\net8.0\22_Names_Scores.dll
+C:\Users\angel\Documents\ProjectEuler\22_Names_Scores\obj\Debug\net8.0\refint\22_Names_Scores.dll
+C:\Users\angel\Documents\ProjectEuler\22_Names_Scores\obj\Debug\net8.0\22_Names_Scores.pdb
+C:\Users\angel\Documents\ProjectEuler\22_Names_Scores\obj\Debug\net8.0\22_Names_Scores.genruntimeconfig.cache
+C:\Users\angel\Documents\ProjectEuler\22_Names_Scores\obj\Debug\net8.0\ref\22_Names_Scores.dll
