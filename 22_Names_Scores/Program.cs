@@ -1,4 +1,5 @@
 ﻿using System.Collections;
+using System.Text.RegularExpressions;
 
 namespace _22_Names_Scores;
 
@@ -18,11 +19,10 @@ class Program
             foreach (var letter in name)
             {
                 
-                subScore += letter;
-                Console.WriteLine(subScore);
+                subScore += (letter - 'A') + 1;
             }
 
-            totalScore = subScore * (i + 1);
+            totalScore += subScore * (i + 1);
         }
 
         Console.WriteLine(totalScore);
@@ -31,15 +31,14 @@ class Program
     static void LoadNames(ref List<string> names, string PATH)
     {
         string text = File.ReadAllText(PATH);
-        text.Replace("\"", string.Empty);
+        text =Regex.Replace(text, "\"", string.Empty);
         string[] splitText = text.Split(',');
 
         foreach (string name in splitText)
         {
             names.Add(name);
         }
-        
+
         names.Sort();
-        
     }
 }
