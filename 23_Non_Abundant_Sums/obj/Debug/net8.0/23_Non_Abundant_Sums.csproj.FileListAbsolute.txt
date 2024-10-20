@@ -1,0 +1,15 @@
+C:\Users\angel\Documents\ProjectEuler\23_Non_Abundant_Sums\bin\Debug\net8.0\23_Non_Abundant_Sums.exe
+C:\Users\angel\Documents\ProjectEuler\23_Non_Abundant_Sums\bin\Debug\net8.0\23_Non_Abundant_Sums.deps.json
+C:\Users\angel\Documents\ProjectEuler\23_Non_Abundant_Sums\bin\Debug\net8.0\23_Non_Abundant_Sums.runtimeconfig.json
+C:\Users\angel\Documents\ProjectEuler\23_Non_Abundant_Sums\bin\Debug\net8.0\23_Non_Abundant_Sums.dll
+C:\Users\angel\Documents\ProjectEuler\23_Non_Abundant_Sums\bin\Debug\net8.0\23_Non_Abundant_Sums.pdb
+C:\Users\angel\Documents\ProjectEuler\23_Non_Abundant_Sums\obj\Debug\net8.0\23_Non_Abundant_Sums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Documents\ProjectEuler\23_Non_Abundant_Sums\obj\Debug\net8.0\23_Non_Abundant_Sums.AssemblyInfoInputs.cache
+C:\Users\angel\Documents\ProjectEuler\23_Non_Abundant_Sums\obj\Debug\net8.0\23_Non_Abundant_Sums.AssemblyInfo.cs
+C:\Users\angel\Documents\ProjectEuler\23_Non_Abundant_Sums\obj\Debug\net8.0\23_Non_Abundant_Sums.csproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\ProjectEuler\23_Non_Abundant_Sums\obj\Debug\net8.0\23_Non_Abundant_Sums.sourcelink.json
+C:\Users\angel\Documents\ProjectEuler\23_Non_Abundant_Sums\obj\Debug\net8.0\23_Non_Abundant_Sums.dll
+C:\Users\angel\Documents\ProjectEuler\23_Non_Abundant_Sums\obj\Debug\net8.0\refint\23_Non_Abundant_Sums.dll
+C:\Users\angel\Documents\ProjectEuler\23_Non_Abundant_Sums\obj\Debug\net8.0\23_Non_Abundant_Sums.pdb
+C:\Users\angel\Documents\ProjectEuler\23_Non_Abundant_Sums\obj\Debug\net8.0\23_Non_Abundant_Sums.genruntimeconfig.cache
+C:\Users\angel\Documents\ProjectEuler\23_Non_Abundant_Sums\obj\Debug\net8.0\ref\23_Non_Abundant_Sums.dll
