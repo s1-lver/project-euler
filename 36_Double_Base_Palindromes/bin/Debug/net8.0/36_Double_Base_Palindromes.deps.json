@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "36_Double_Base_Palindromes/1.0.0": {
+        "runtime": {
+          "36_Double_Base_Palindromes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "36_Double_Base_Palindromes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

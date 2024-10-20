@@ -1,0 +1,15 @@
+C:\Users\angel\Documents\ProjectEuler\36_Double_Base_Palindromes\bin\Debug\net8.0\36_Double_Base_Palindromes.exe
+C:\Users\angel\Documents\ProjectEuler\36_Double_Base_Palindromes\bin\Debug\net8.0\36_Double_Base_Palindromes.deps.json
+C:\Users\angel\Documents\ProjectEuler\36_Double_Base_Palindromes\bin\Debug\net8.0\36_Double_Base_Palindromes.runtimeconfig.json
+C:\Users\angel\Documents\ProjectEuler\36_Double_Base_Palindromes\bin\Debug\net8.0\36_Double_Base_Palindromes.dll
+C:\Users\angel\Documents\ProjectEuler\36_Double_Base_Palindromes\bin\Debug\net8.0\36_Double_Base_Palindromes.pdb
+C:\Users\angel\Documents\ProjectEuler\36_Double_Base_Palindromes\obj\Debug\net8.0\36_Double_Base_Palindromes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Documents\ProjectEuler\36_Double_Base_Palindromes\obj\Debug\net8.0\36_Double_Base_Palindromes.AssemblyInfoInputs.cache
+C:\Users\angel\Documents\ProjectEuler\36_Double_Base_Palindromes\obj\Debug\net8.0\36_Double_Base_Palindromes.AssemblyInfo.cs
+C:\Users\angel\Documents\ProjectEuler\36_Double_Base_Palindromes\obj\Debug\net8.0\36_Double_Base_Palindromes.csproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\ProjectEuler\36_Double_Base_Palindromes\obj\Debug\net8.0\36_Double_Base_Palindromes.sourcelink.json
+C:\Users\angel\Documents\ProjectEuler\36_Double_Base_Palindromes\obj\Debug\net8.0\36_Double_Base_Palindromes.dll
+C:\Users\angel\Documents\ProjectEuler\36_Double_Base_Palindromes\obj\Debug\net8.0\refint\36_Double_Base_Palindromes.dll
+C:\Users\angel\Documents\ProjectEuler\36_Double_Base_Palindromes\obj\Debug\net8.0\36_Double_Base_Palindromes.pdb
+C:\Users\angel\Documents\ProjectEuler\36_Double_Base_Palindromes\obj\Debug\net8.0\36_Double_Base_Palindromes.genruntimeconfig.cache
+C:\Users\angel\Documents\ProjectEuler\36_Double_Base_Palindromes\obj\Debug\net8.0\ref\36_Double_Base_Palindromes.dll
