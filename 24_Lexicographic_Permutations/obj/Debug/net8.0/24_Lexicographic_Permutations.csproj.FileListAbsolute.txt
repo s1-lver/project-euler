@@ -1,0 +1,15 @@
+C:\Users\angel\Documents\ProjectEuler\24_Lexicographic_Permutations\bin\Debug\net8.0\24_Lexicographic_Permutations.exe
+C:\Users\angel\Documents\ProjectEuler\24_Lexicographic_Permutations\bin\Debug\net8.0\24_Lexicographic_Permutations.deps.json
+C:\Users\angel\Documents\ProjectEuler\24_Lexicographic_Permutations\bin\Debug\net8.0\24_Lexicographic_Permutations.runtimeconfig.json
+C:\Users\angel\Documents\ProjectEuler\24_Lexicographic_Permutations\bin\Debug\net8.0\24_Lexicographic_Permutations.dll
+C:\Users\angel\Documents\ProjectEuler\24_Lexicographic_Permutations\bin\Debug\net8.0\24_Lexicographic_Permutations.pdb
+C:\Users\angel\Documents\ProjectEuler\24_Lexicographic_Permutations\obj\Debug\net8.0\24_Lexicographic_Permutations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Documents\ProjectEuler\24_Lexicographic_Permutations\obj\Debug\net8.0\24_Lexicographic_Permutations.AssemblyInfoInputs.cache
+C:\Users\angel\Documents\ProjectEuler\24_Lexicographic_Permutations\obj\Debug\net8.0\24_Lexicographic_Permutations.AssemblyInfo.cs
+C:\Users\angel\Documents\ProjectEuler\24_Lexicographic_Permutations\obj\Debug\net8.0\24_Lexicographic_Permutations.csproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\ProjectEuler\24_Lexicographic_Permutations\obj\Debug\net8.0\24_Lexicographic_Permutations.sourcelink.json
+C:\Users\angel\Documents\ProjectEuler\24_Lexicographic_Permutations\obj\Debug\net8.0\24_Lexicographic_Permutations.dll
+C:\Users\angel\Documents\ProjectEuler\24_Lexicographic_Permutations\obj\Debug\net8.0\refint\24_Lexicographic_Permutations.dll
+C:\Users\angel\Documents\ProjectEuler\24_Lexicographic_Permutations\obj\Debug\net8.0\24_Lexicographic_Permutations.pdb
+C:\Users\angel\Documents\ProjectEuler\24_Lexicographic_Permutations\obj\Debug\net8.0\24_Lexicographic_Permutations.genruntimeconfig.cache
+C:\Users\angel\Documents\ProjectEuler\24_Lexicographic_Permutations\obj\Debug\net8.0\ref\24_Lexicographic_Permutations.dll
