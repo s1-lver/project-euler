@@ -1,0 +1,15 @@
+C:\Users\angel\Documents\ProjectEuler\25_1000_Digit_Fibonacci_Number\bin\Debug\net8.0\25_1000_Digit_Fibonacci_Number.exe
+C:\Users\angel\Documents\ProjectEuler\25_1000_Digit_Fibonacci_Number\bin\Debug\net8.0\25_1000_Digit_Fibonacci_Number.deps.json
+C:\Users\angel\Documents\ProjectEuler\25_1000_Digit_Fibonacci_Number\bin\Debug\net8.0\25_1000_Digit_Fibonacci_Number.runtimeconfig.json
+C:\Users\angel\Documents\ProjectEuler\25_1000_Digit_Fibonacci_Number\bin\Debug\net8.0\25_1000_Digit_Fibonacci_Number.dll
+C:\Users\angel\Documents\ProjectEuler\25_1000_Digit_Fibonacci_Number\bin\Debug\net8.0\25_1000_Digit_Fibonacci_Number.pdb
+C:\Users\angel\Documents\ProjectEuler\25_1000_Digit_Fibonacci_Number\obj\Debug\net8.0\25_1000_Digit_Fibonacci_Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Documents\ProjectEuler\25_1000_Digit_Fibonacci_Number\obj\Debug\net8.0\25_1000_Digit_Fibonacci_Number.AssemblyInfoInputs.cache
+C:\Users\angel\Documents\ProjectEuler\25_1000_Digit_Fibonacci_Number\obj\Debug\net8.0\25_1000_Digit_Fibonacci_Number.AssemblyInfo.cs
+C:\Users\angel\Documents\ProjectEuler\25_1000_Digit_Fibonacci_Number\obj\Debug\net8.0\25_1000_Digit_Fibonacci_Number.csproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\ProjectEuler\25_1000_Digit_Fibonacci_Number\obj\Debug\net8.0\25_1000_Digit_Fibonacci_Number.sourcelink.json
+C:\Users\angel\Documents\ProjectEuler\25_1000_Digit_Fibonacci_Number\obj\Debug\net8.0\25_1000_Digit_Fibonacci_Number.dll
+C:\Users\angel\Documents\ProjectEuler\25_1000_Digit_Fibonacci_Number\obj\Debug\net8.0\refint\25_1000_Digit_Fibonacci_Number.dll
+C:\Users\angel\Documents\ProjectEuler\25_1000_Digit_Fibonacci_Number\obj\Debug\net8.0\25_1000_Digit_Fibonacci_Number.pdb
+C:\Users\angel\Documents\ProjectEuler\25_1000_Digit_Fibonacci_Number\obj\Debug\net8.0\25_1000_Digit_Fibonacci_Number.genruntimeconfig.cache
+C:\Users\angel\Documents\ProjectEuler\25_1000_Digit_Fibonacci_Number\obj\Debug\net8.0\ref\25_1000_Digit_Fibonacci_Number.dll
