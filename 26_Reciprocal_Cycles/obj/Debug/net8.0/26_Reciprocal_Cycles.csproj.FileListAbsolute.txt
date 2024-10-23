@@ -1,0 +1,15 @@
+C:\Users\angel\Documents\ProjectEuler\26_Reciprocal_Cycles\bin\Debug\net8.0\26_Reciprocal_Cycles.exe
+C:\Users\angel\Documents\ProjectEuler\26_Reciprocal_Cycles\bin\Debug\net8.0\26_Reciprocal_Cycles.deps.json
+C:\Users\angel\Documents\ProjectEuler\26_Reciprocal_Cycles\bin\Debug\net8.0\26_Reciprocal_Cycles.runtimeconfig.json
+C:\Users\angel\Documents\ProjectEuler\26_Reciprocal_Cycles\bin\Debug\net8.0\26_Reciprocal_Cycles.dll
+C:\Users\angel\Documents\ProjectEuler\26_Reciprocal_Cycles\bin\Debug\net8.0\26_Reciprocal_Cycles.pdb
+C:\Users\angel\Documents\ProjectEuler\26_Reciprocal_Cycles\obj\Debug\net8.0\26_Reciprocal_Cycles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Documents\ProjectEuler\26_Reciprocal_Cycles\obj\Debug\net8.0\26_Reciprocal_Cycles.AssemblyInfoInputs.cache
+C:\Users\angel\Documents\ProjectEuler\26_Reciprocal_Cycles\obj\Debug\net8.0\26_Reciprocal_Cycles.AssemblyInfo.cs
+C:\Users\angel\Documents\ProjectEuler\26_Reciprocal_Cycles\obj\Debug\net8.0\26_Reciprocal_Cycles.csproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\ProjectEuler\26_Reciprocal_Cycles\obj\Debug\net8.0\26_Reciprocal_Cycles.sourcelink.json
+C:\Users\angel\Documents\ProjectEuler\26_Reciprocal_Cycles\obj\Debug\net8.0\26_Reciprocal_Cycles.dll
+C:\Users\angel\Documents\ProjectEuler\26_Reciprocal_Cycles\obj\Debug\net8.0\refint\26_Reciprocal_Cycles.dll
+C:\Users\angel\Documents\ProjectEuler\26_Reciprocal_Cycles\obj\Debug\net8.0\26_Reciprocal_Cycles.pdb
+C:\Users\angel\Documents\ProjectEuler\26_Reciprocal_Cycles\obj\Debug\net8.0\26_Reciprocal_Cycles.genruntimeconfig.cache
+C:\Users\angel\Documents\ProjectEuler\26_Reciprocal_Cycles\obj\Debug\net8.0\ref\26_Reciprocal_Cycles.dll

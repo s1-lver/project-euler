@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26_Reciprocal_Cycles", "26_Reciprocal_Cycles.csproj", "{767FE0D0-7C24-4020-B1AF-4E815AC1EACC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{767FE0D0-7C24-4020-B1AF-4E815AC1EACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{767FE0D0-7C24-4020-B1AF-4E815AC1EACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{767FE0D0-7C24-4020-B1AF-4E815AC1EACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{767FE0D0-7C24-4020-B1AF-4E815AC1EACC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
